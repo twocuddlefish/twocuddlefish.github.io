@@ -4,6 +4,6 @@
 
 layout: home
 ---
-# Welcome to My Blog
+# Reverse engineering and FPGA
 
-This is my new Jekyll blog!
+New placeholder blog where I'll be looking into Funnyplaying FPGBC console
